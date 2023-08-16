@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🏫 PhD Candidate at UC Irvine;  
-🚙 Currently working on fault detection and system recovery of autonomous vehicles;  
+🏫 CSC Assistant Teaching Professor at NC State;  
 😄 Pronouns: he/him/his;  
 📫 Learn more about me at [cbdm.io](https://cbdm.io/)
